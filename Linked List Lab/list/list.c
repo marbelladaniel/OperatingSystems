@@ -1,7 +1,7 @@
 // list/list.c
 // 
 // Implementation for linked list.
-//
+//  
 // <Author>
 
 #include <stdio.h>
